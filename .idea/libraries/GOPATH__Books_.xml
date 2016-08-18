@@ -2,11 +2,13 @@
   <library name="GOPATH &lt;Books&gt;">
     <CLASSES>
       <root url="file://$USER_HOME$/goWorkspace/src/firstGo" />
+      <root url="file://$USER_HOME$/goWorkspace/src/golang.org" />
       <root url="file://$USER_HOME$/goWorkspace/src/github.com" />
+      <root url="file://$USER_HOME$/goWorkspace/src/gopkg.in" />
     </CLASSES>
     <SOURCES />
     <excluded>
-      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$USER_HOME$/goWorkspace/Books" />
     </excluded>
   </library>
 </component>
